@@ -74,4 +74,4 @@ createSdk({schema:{
 
 ## roadmap
 
-- [] auto authentication options
+- [ ] auto authentication options
