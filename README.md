@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/continuous-software/node-funnels.svg?style=svg)](https://circleci.com/gh/continuous-software/node-funnels)
+
 # node-funnels
 funnels.io nodejs sdk
 
