@@ -1,0 +1,31 @@
+{
+  "name": "funnels",
+  "version": "1.0.0",
+  "description": "funnels.io nodejs sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node ./test/index.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/continuous-software/node-funnels.git"
+  },
+  "keywords": [
+    "funnels.io"
+  ],
+  "author": "Laurent Renard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/continuous-software/node-funnels/issues"
+  },
+  "homepage": "https://github.com/continuous-software/node-funnels#readme",
+  "devDependencies": {
+    "nock": "^3.4.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.2.2"
+  },
+  "dependencies": {
+    "got": "^5.2.0",
+    "skeemas-json-pointer": "^1.0.0"
+  }
+}
