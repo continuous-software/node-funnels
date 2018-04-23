@@ -1,6 +1,8 @@
 [![Circle CI](https://circleci.com/gh/continuous-software/node-funnels.svg?style=svg)](https://circleci.com/gh/continuous-software/node-funnels)
 
 # node-funnels
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/continuous-software/node-funnels.svg)](https://greenkeeper.io/)
 funnels.io nodejs sdk
 
 allow you to dynamically create sdk factories based on JSON schema specifications
